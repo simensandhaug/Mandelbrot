@@ -1,3 +1,3 @@
 # Mandelbrot
 
-#Creates a mandelbrot-set-fractal in python
+### Creates a mandelbrot-set-fractal in python
